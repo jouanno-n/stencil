@@ -14,6 +14,13 @@
 | `middle` | `middle`  | The middle name | `string` | `undefined` |
 
 
+## CSS Custom Properties
+
+| Name                          | Description                                                                         |
+| ----------------------------- | ----------------------------------------------------------------------------------- |
+| `--mg-c-button-border-radius` | Defines the border radius of the button. The default value is `--mg-b-size-radius`. |
+
+
 ----------------------------------------------
 
 *Built with [StencilJS](https://stenciljs.com/)*

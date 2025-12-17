@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "sass scss:dist -w",
-    "build": "sass --no-source-map scss:dist -s compressed",
+    "build": "sass --no-source-map scss:dist -s expanded",
     "build:dev": "sass scss:dist",
     "doc": "pnpm build:dev && ts-node tools/css-docs.ts"
   },
